@@ -1,0 +1,22 @@
+{
+  "oculos": [
+    {
+      "modelo": "Sandy Leah",
+      "preco": "111",
+      "codigo": "111",
+      "id": 1
+    },
+    {
+      "modelo": "teste",
+      "preco": "022",
+      "codigo": "011",
+      "id": 2
+    },
+    {
+      "modelo": "testee",
+      "preco": "022",
+      "codigo": "011",
+      "id": 3
+    }
+  ]
+}
